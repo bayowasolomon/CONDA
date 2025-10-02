@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+
+https://www.mediafire.com/file/myd4r1rl21lu51r/PES+2017+I+New+Update+V1.2+For+YosfX+Full+&+Mini+Patch+-+FC+2025+Edition+.rar/file
